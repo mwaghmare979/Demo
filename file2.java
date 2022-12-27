@@ -5,7 +5,7 @@ public static int num;
 
     int x = 5;
     int y = 9;
-   System.out.println("x");
-   System.out.println("x");
+   System.out.println("x" +x);
+   System.out.println("y" +y);
 }
 }
